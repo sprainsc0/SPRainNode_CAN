@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flash_board>
+    <pass>
+        <loader>$TOOLKIT_DIR$\config\flashloader\ST\FlashSTM32G43xxB.flash</loader>
+        <range>CODE 0x8000000 0x801dfff</range>
+    </pass>
+    <pass>
+        <loader>$TOOLKIT_DIR$\config\flashloader\ST\FlashSTM32G4xxx_OTP.flash</loader>
+        <range>CODE 0x1fff7000 0x1fff73ff</range>
+    </pass>
+</flash_board>

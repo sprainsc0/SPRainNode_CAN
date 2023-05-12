@@ -1,0 +1,15 @@
+"G:\IAR Systems\Embedded Workbench 9.0\arm\bin\armPROC.dll" 
+
+"G:\IAR Systems\Embedded Workbench 9.0\arm\bin\armSTLINK.dll" 
+
+"K:\BlackBox\SPRainNode_CAN\project_pmu\EWARM\project_pmu\Exe\project_pmu.out" 
+
+--plugin="G:\IAR Systems\Embedded Workbench 9.0\arm\bin\armbat.dll" 
+
+--device_macro="G:\IAR Systems\Embedded Workbench 9.0\arm\config\debugger\ST\STM32G4xx.dmac" 
+
+--flash_loader="G:\IAR Systems\Embedded Workbench 9.0\arm\config\flashloader\ST\FlashSTM32G43xxB.board" 
+
+
+
+
